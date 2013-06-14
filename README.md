@@ -3,6 +3,8 @@ FingerPaint
 ------------
 Paint with your fingers
 
+Requires node.js installed 
+
 To run:
     
     npm install
